@@ -1,5 +1,7 @@
 ## Hi there!🍟
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&font-weight=600&pause=1000&color=4FB6A3&width=500&lines=Studying+to+Become+a+Frontend+Engineer;Also+Learning+Backend" /> 
+
 <!--
 **ruirui14/ruirui14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +23,6 @@ Here are some ideas to get you started:
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruirui14&theme=nord_dark" width="348"/>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&font-weight=600&pause=1000&color=4FB6A3&width=500&lines=Studying+to+Become+a+Frontend+Engineer;Also+Learning+Backend" /> 
-
-
+## Projects
+<img src="./makeCK.svg" />
 
