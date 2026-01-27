@@ -1,0 +1,37 @@
+<svg width="600" height="260" viewBox="0 0 600 260" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="0" y="0" width="600" height="260" rx="16" fill="#0F172A"></rect>
+  <rect x="1.5" y="1.5" width="597" height="257" rx="14.5" fill="none" stroke="#4FB6A3" stroke-width="3"></rect>
+
+  <!-- Title -->
+  <text x="30" y="50" font-size="24" font-weight="700" fill="#E5F9F6">
+     makeCK (めいくっく)
+  </text>
+
+  <!-- Description -->
+  <text x="30" y="85" font-size="14" fill="#CFF3EC">
+    料理で何からすればいい？を解決！
+  </text>
+
+  <!-- Tech Stack -->
+  <text x="30" y="125" font-size="16" font-weight="600" fill="#4FB6A3">
+    Tech Stack
+  </text>
+
+  <text x="30" y="150" font-size="14" fill="#E2E8F0">
+    Frontend: React / TypeScript
+  </text>
+  <text x="30" y="172" font-size="14" fill="#E2E8F0">
+    Backend: Golang
+  </text>
+  <text x="30" y="194" font-size="14" fill="#E2E8F0">
+    Infra: Docker / Nginx / SQLite / Cloudflare
+  </text>
+
+    <!-- Footer -->
+  <a href="https://github.com/kousei-s" target="_blank">
+    <text x="30" y="230" font-size="13" fill="#7DD3C7">
+      GitHub: github.com/kousei-s
+    </text>
+  </a>
+</svg>
